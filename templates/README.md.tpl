@@ -21,17 +21,17 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://keas.app/rss/" 15}}
+{{range rss "https://keas.app/rss/" 20}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📓 Gists I wrote
-{{range gists 5}}
+{{range gists 10}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 20}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
