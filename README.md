@@ -67,6 +67,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (today)
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (today)
+- [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang (today)
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services (today)
 - [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (today)
 - [unit-io/unitd](https://github.com/unit-io/unitd) - Lightweight, high performance messaging system for microservices, IoT, and real-time internet connected devices. (today)
 - [unit-io/unitdb-go](https://github.com/unit-io/unitdb-go) - Lightweight and high performance publish-subscribe messaging system - Go client library. (today)
@@ -83,10 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [joelgrus/joelnet](https://github.com/joelgrus/joelnet) - live coding deep learning library (1 day ago)
 - [gorgonia/golgi](https://github.com/gorgonia/golgi) - Golgi is a library built on top of Gorgonia that provides neural network components (1 day ago)
 - [go-gl/mathgl](https://github.com/go-gl/mathgl) - A pure Go 3D math library. (1 day ago)
-- [made2591/go-perceptron-go](https://github.com/made2591/go-perceptron-go) - A single / multi layer / recurrent neural network written in Golang. (1 day ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. (3 days ago)
-- [rqlite/gorqlite](https://github.com/rqlite/gorqlite) - A golang client for rqlite, the distributed consistent sqlite (6 days ago)
-- [encoredev/encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
