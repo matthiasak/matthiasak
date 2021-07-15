@@ -7,7 +7,6 @@
 #### 🌱 My latest projects
 
 - [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow
-- [matthiasak/EOG-metrics](https://github.com/matthiasak/EOG-metrics) - 
 - [matthiasak/physics-fp-and-js](https://github.com/matthiasak/physics-fp-and-js) - A talk on physics sims with js, fp, observables
 - [matthiasak/batchql](https://github.com/matthiasak/batchql) - Don&#39;t just graphql, batchql!
 - [matthiasak/fusebox-closure-plugin](https://github.com/matthiasak/fusebox-closure-plugin) - Google closure compiler js plugin for Fuse-box
@@ -16,6 +15,7 @@
 - [matthiasak/clan](https://github.com/matthiasak/clan) - Clan is a super succinct, no-dependency set of utilities written in TypeScript with a slightly opinionated collection of features that integrate particularly well when used together.
 - [matthiasak/dotnetcore-boilerplate](https://github.com/matthiasak/dotnetcore-boilerplate) - A .NET Core boilerplate with Node tooling built-in. .NET Core, EF Core, Babel, Webpack, PostCSS.
 - [matthiasak/haskell-notes](https://github.com/matthiasak/haskell-notes) - working through LYAH (Learn You A Haskell)
+- [matthiasak/vdom-components](https://github.com/matthiasak/vdom-components) - [DEPRECATED] - has been rolled into https://github.com/matthiasak/universal-utils
 
 #### 🔭 Latest releases I've contributed to
 
@@ -67,6 +67,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (today)
+- [unit-io/unitd](https://github.com/unit-io/unitd) - Lightweight, high performance messaging system for microservices, IoT, and real-time internet connected devices. (today)
+- [unit-io/unitdb-go](https://github.com/unit-io/unitdb-go) - Lightweight and high performance publish-subscribe messaging system - Go client library. (today)
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more (today)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
@@ -83,10 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. (3 days ago)
 - [rqlite/gorqlite](https://github.com/rqlite/gorqlite) - A golang client for rqlite, the distributed consistent sqlite (6 days ago)
 - [encoredev/encore](https://github.com/encoredev/encore) - The Go backend framework with superpowers (6 days ago)
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects. (6 days ago)
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (6 days ago)
-- [vmihailenco/treemux](https://github.com/vmihailenco/treemux) - High-speed and flexible HTTP router for Go (6 days ago)
-- [goinvest/fin](https://github.com/goinvest/fin) - Go library for financial calculations (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
