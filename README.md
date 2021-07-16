@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [matthiasak/go-algotrade](https://github.com/matthiasak/go-algotrade) - Learning experiment with algorithmic trading, quant analysis, stock and crypto projections (today)
 - [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (1 day ago)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 day ago)
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang (1 day ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go. (2 days ago)
 - [joelgrus/joelnet](https://github.com/joelgrus/joelnet) - live coding deep learning library (2 days ago)
 - [gorgonia/golgi](https://github.com/gorgonia/golgi) - Golgi is a library built on top of Gorgonia that provides neural network components (2 days ago)
-- [go-gl/mathgl](https://github.com/go-gl/mathgl) - A pure Go 3D math library. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
