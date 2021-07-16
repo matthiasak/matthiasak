@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [tradingview/pine_script_docs](https://github.com/tradingview/pine_script_docs) -  (today)
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas (today)
 - [matthiasak/go-algotrade](https://github.com/matthiasak/go-algotrade) - Learning experiment with algorithmic trading, quant analysis, stock and crypto projections (today)
 - [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (1 day ago)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 day ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal (2 days ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects (2 days ago)
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go. (2 days ago)
-- [joelgrus/joelnet](https://github.com/joelgrus/joelnet) - live coding deep learning library (2 days ago)
-- [gorgonia/golgi](https://github.com/gorgonia/golgi) - Golgi is a library built on top of Gorgonia that provides neural network components (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
