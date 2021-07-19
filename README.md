@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [kbhattac/coolretailer](https://github.com/kbhattac/coolretailer) - Microservices with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver (today)
+- [stefanprodan/istio-hpa](https://github.com/stefanprodan/istio-hpa) - Configure horizontal pod autoscaling with Istio metrics and Prometheus (today)
 - [tradingview/pine_script_docs](https://github.com/tradingview/pine_script_docs) -  (3 days ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas (3 days ago)
 - [matthiasak/go-algotrade](https://github.com/matthiasak/go-algotrade) - Learning experiment with algorithmic trading, quant analysis, stock and crypto projections (3 days ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (4 days ago)
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices. (5 days ago)
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal (5 days ago)
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects (5 days ago)
-- [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
