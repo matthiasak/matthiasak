@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things (today)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (1 day ago)
 - [kbhattac/coolretailer](https://github.com/kbhattac/coolretailer) - Microservices with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver (1 day ago)
 - [stefanprodan/istio-hpa](https://github.com/stefanprodan/istio-hpa) - Configure horizontal pod autoscaling with Istio metrics and Prometheus (1 day ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (5 days ago)
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
