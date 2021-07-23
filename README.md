@@ -49,7 +49,7 @@
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (2 months ago)
 - [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (2 months ago)
 - [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (3 months ago)
-- [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (3 months ago)
+- [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (4 months ago)
 
 #### 📓 Gists I wrote
 
@@ -67,14 +67,14 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [c9s/goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go (1 day ago)
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things (2 days ago)
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (3 days ago)
-- [kbhattac/coolretailer](https://github.com/kbhattac/coolretailer) - Microservices with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver (3 days ago)
-- [stefanprodan/istio-hpa](https://github.com/stefanprodan/istio-hpa) - Configure horizontal pod autoscaling with Istio metrics and Prometheus (3 days ago)
-- [tradingview/pine_script_docs](https://github.com/tradingview/pine_script_docs) -  (6 days ago)
-- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas (6 days ago)
-- [matthiasak/go-algotrade](https://github.com/matthiasak/go-algotrade) - Learning experiment with algorithmic trading, quant analysis, stock and crypto projections (6 days ago)
+- [c9s/goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go (2 days ago)
+- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things (3 days ago)
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (4 days ago)
+- [kbhattac/coolretailer](https://github.com/kbhattac/coolretailer) - Microservices with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver (4 days ago)
+- [stefanprodan/istio-hpa](https://github.com/stefanprodan/istio-hpa) - Configure horizontal pod autoscaling with Istio metrics and Prometheus (4 days ago)
+- [tradingview/pine_script_docs](https://github.com/tradingview/pine_script_docs) -  (1 week ago)
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas (1 week ago)
+- [matthiasak/go-algotrade](https://github.com/matthiasak/go-algotrade) - Learning experiment with algorithmic trading, quant analysis, stock and crypto projections (1 week ago)
 - [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework (1 week ago)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 week ago)
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang (1 week ago)
