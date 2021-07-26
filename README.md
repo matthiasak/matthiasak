@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book (today)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (3 days ago)
 - [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language (3 days ago)
 - [halturin/ergo](https://github.com/halturin/ergo) - a Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang (3 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things (6 days ago)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (1 week ago)
 - [kbhattac/coolretailer](https://github.com/kbhattac/coolretailer) - Microservices with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver (1 week ago)
-- [stefanprodan/istio-hpa](https://github.com/stefanprodan/istio-hpa) - Configure horizontal pod autoscaling with Istio metrics and Prometheus (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
