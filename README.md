@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [cshenton/seer](https://github.com/cshenton/seer) - Time series forecasting microservice (today)
 - [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc. (today)
 - [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go (today)
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more (2 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications. (6 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (6 days ago)
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns. (6 days ago)
-- [c9s/goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
