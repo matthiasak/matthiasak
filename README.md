@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go (today)
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more (2 days ago)
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book (3 days ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (6 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns. (6 days ago)
 - [c9s/goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go (1 week ago)
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things (1 week ago)
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
