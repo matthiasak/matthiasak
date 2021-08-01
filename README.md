@@ -67,11 +67,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [cshenton/seer](https://github.com/cshenton/seer) - Time series forecasting microservice (2 days ago)
-- [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc. (2 days ago)
-- [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go (2 days ago)
-- [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more (4 days ago)
-- [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book (5 days ago)
+- [cshenton/seer](https://github.com/cshenton/seer) - Time series forecasting microservice (3 days ago)
+- [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc. (3 days ago)
+- [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go (3 days ago)
+- [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more (5 days ago)
+- [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book (6 days ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 week ago)
 - [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language (1 week ago)
 - [halturin/ergo](https://github.com/halturin/ergo) - a Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang (1 week ago)
