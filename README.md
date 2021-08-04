@@ -47,7 +47,7 @@
 - [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (2 months ago)
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (2 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (2 months ago)
-- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (2 months ago)
+- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (3 months ago)
 - [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (3 months ago)
 - [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (4 months ago)
 
@@ -67,11 +67,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (today)
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (1 day ago)
-- [cshenton/seer](https://github.com/cshenton/seer) - Time series forecasting microservice (5 days ago)
-- [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc. (5 days ago)
-- [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go (5 days ago)
+- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (1 day ago)
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (2 days ago)
+- [cshenton/seer](https://github.com/cshenton/seer) - Time series forecasting microservice (6 days ago)
+- [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc. (6 days ago)
+- [dwhitena/gophernet](https://github.com/dwhitena/gophernet) - A simple from-scratch neural net written in Go (6 days ago)
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more (1 week ago)
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book (1 week ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 week ago)
