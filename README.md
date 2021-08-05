@@ -67,6 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (today)
+- [CorticalComputer/DXNN2](https://github.com/CorticalComputer/DXNN2) - Topology and Parameter Evolving Universal Learning Network platform DXNN MK2 (today)
+- [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang (today)
 - [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data (1 day ago)
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (2 days ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (3 days ago)
@@ -84,9 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development (1 week ago)
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework (1 week ago)
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation &amp; management for Docker &amp; Kubernetes (1 week ago)
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 week ago)
-- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services (1 week ago)
-- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
