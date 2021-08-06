@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (today)
+- [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (today)
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (today)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (1 day ago)
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (1 day ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language (2 weeks ago)
 - [halturin/ergo](https://github.com/halturin/ergo) - a Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang (2 weeks ago)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (2 weeks ago)
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. (2 weeks ago)
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
