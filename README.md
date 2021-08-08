@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (today)
 - [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (2 days ago)
 - [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (2 days ago)
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (2 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (2 weeks ago)
 - [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language (2 weeks ago)
 - [halturin/ergo](https://github.com/halturin/ergo) - a Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang (2 weeks ago)
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
