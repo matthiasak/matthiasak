@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (today)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (today)
 - [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (2 days ago)
 - [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (4 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more (2 weeks ago)
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book (2 weeks ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (2 weeks ago)
-- [gojuno/minimock](https://github.com/gojuno/minimock) - Powerful mock generation tool for Go programming language (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
