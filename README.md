@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (today)
+- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (today)
 - [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (today)
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research (3 days ago)
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (3 days ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [CorticalComputer/DXNN2](https://github.com/CorticalComputer/DXNN2) - Topology and Parameter Evolving Universal Learning Network platform DXNN MK2 (1 week ago)
 - [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang (1 week ago)
 - [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data (1 week ago)
-- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (1 week ago)
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
