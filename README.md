@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (1 month ago)
+- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (2 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (2 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (2 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (3 months ago)
@@ -67,16 +67,16 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (2 days ago)
-- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (2 days ago)
-- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (2 days ago)
-- [google-research/google-research](https://github.com/google-research/google-research) - Google Research (5 days ago)
-- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (5 days ago)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (5 days ago)
-- [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects &amp; applications integrated with Hugging Face libraries. (5 days ago)
-- [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist). (5 days ago)
-- [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (5 days ago)
-- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (5 days ago)
+- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (3 days ago)
+- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (3 days ago)
+- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (3 days ago)
+- [google-research/google-research](https://github.com/google-research/google-research) - Google Research (6 days ago)
+- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (6 days ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (6 days ago)
+- [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects &amp; applications integrated with Hugging Face libraries. (6 days ago)
+- [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist). (6 days ago)
+- [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (6 days ago)
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (6 days ago)
 - [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (1 week ago)
 - [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (1 week ago)
 - [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (1 week ago)
