@@ -67,9 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (6 days ago)
-- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (6 days ago)
-- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (6 days ago)
+- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (1 week ago)
+- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (1 week ago)
+- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (1 week ago)
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research (1 week ago)
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (1 week ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (1 week ago)
@@ -78,9 +78,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (1 week ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (1 week ago)
 - [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (1 week ago)
-- [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (1 week ago)
-- [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (1 week ago)
-- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (1 week ago)
+- [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (2 weeks ago)
+- [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (2 weeks ago)
+- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (2 weeks ago)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (2 weeks ago)
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (2 weeks ago)
 - [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (2 weeks ago)
