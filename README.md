@@ -49,7 +49,7 @@
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (3 months ago)
 - [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (3 months ago)
 - [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (4 months ago)
-- [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (4 months ago)
+- [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (5 months ago)
 
 #### 📓 Gists I wrote
 
@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (1 day ago)
+- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (2 days ago)
 - [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (1 week ago)
 - [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (1 week ago)
 - [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (1 week ago)
@@ -78,7 +78,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist). (1 week ago)
 - [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (1 week ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (1 week ago)
-- [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (1 week ago)
+- [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (2 weeks ago)
 - [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (2 weeks ago)
 - [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (2 weeks ago)
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (2 weeks ago)
