@@ -24,7 +24,7 @@
 
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (5 months ago)
 - [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (5 months ago)
-- [[Snyk] Security upgrade sane from 1.7.0 to 4.0.2](https://github.com/matthiasak/arbiter-frame/pull/23) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (5 months ago)
+- [[Snyk] Security upgrade sane from 1.7.0 to 4.0.2](https://github.com/matthiasak/arbiter-frame/pull/23) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (6 months ago)
 - [Extend/remove systemd timeout for slower systems](https://github.com/k3s-io/k3s/pull/226) on [k3s-io/k3s](https://github.com/k3s-io/k3s) (2 years ago)
 - [Extend timeout by default for slower systems](https://github.com/matthiasak/k3s/pull/1) on [matthiasak/k3s](https://github.com/matthiasak/k3s) (2 years ago)
 - [tls.connect({checkServerIdentity}) option cannot be a null - must be …](https://github.com/brianc/node-postgres/pull/1638) on [brianc/node-postgres](https://github.com/brianc/node-postgres) (3 years ago)
@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (4 days ago)
+- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (5 days ago)
 - [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (1 week ago)
 - [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (1 week ago)
 - [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (1 week ago)
