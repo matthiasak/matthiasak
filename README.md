@@ -78,7 +78,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist). (2 weeks ago)
 - [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (2 weeks ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (2 weeks ago)
-- [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (2 weeks ago)
+- [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (3 weeks ago)
 - [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (3 weeks ago)
 - [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (3 weeks ago)
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (3 weeks ago)
