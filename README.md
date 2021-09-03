@@ -47,7 +47,7 @@
 - [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (3 months ago)
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (3 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (3 months ago)
-- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (3 months ago)
+- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (4 months ago)
 - [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (4 months ago)
 - [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (5 months ago)
 
@@ -67,10 +67,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (1 week ago)
-- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (2 weeks ago)
-- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (2 weeks ago)
-- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (2 weeks ago)
+- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (2 weeks ago)
+- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (3 weeks ago)
+- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (3 weeks ago)
+- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (3 weeks ago)
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research (3 weeks ago)
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (3 weeks ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (3 weeks ago)
@@ -79,9 +79,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (3 weeks ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (3 weeks ago)
 - [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (3 weeks ago)
-- [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (3 weeks ago)
-- [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (3 weeks ago)
-- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (3 weeks ago)
+- [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (4 weeks ago)
+- [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (4 weeks ago)
+- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (4 weeks ago)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (4 weeks ago)
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (4 weeks ago)
 - [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (4 weeks ago)
