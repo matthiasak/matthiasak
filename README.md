@@ -82,11 +82,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (4 weeks ago)
 - [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (4 weeks ago)
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (4 weeks ago)
-- [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (4 weeks ago)
-- [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (4 weeks ago)
-- [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (4 weeks ago)
-- [CorticalComputer/DXNN2](https://github.com/CorticalComputer/DXNN2) - Topology and Parameter Evolving Universal Learning Network platform DXNN MK2 (4 weeks ago)
-- [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang (4 weeks ago)
+- [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (1 month ago)
+- [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (1 month ago)
+- [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (1 month ago)
+- [CorticalComputer/DXNN2](https://github.com/CorticalComputer/DXNN2) - Topology and Parameter Evolving Universal Learning Network platform DXNN MK2 (1 month ago)
+- [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
