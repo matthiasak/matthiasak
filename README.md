@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (today)
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (today)
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (2 weeks ago)
 - [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (3 weeks ago)
 - [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (3 weeks ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (1 month ago)
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (1 month ago)
 - [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (1 month ago)
-- [CorticalComputer/DXNN2](https://github.com/CorticalComputer/DXNN2) - Topology and Parameter Evolving Universal Learning Network platform DXNN MK2 (1 month ago)
-- [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
