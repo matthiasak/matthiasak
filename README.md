@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on (that isn't private repos)
 
-- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (4 months ago)
+- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,7 +48,7 @@
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (4 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (4 months ago)
 - [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (4 months ago)
-- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (4 months ago)
+- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (5 months ago)
 - [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (5 months ago)
 
 #### 📓 Gists I wrote
@@ -67,12 +67,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (1 day ago)
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (1 day ago)
-- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (2 weeks ago)
-- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (3 weeks ago)
-- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (3 weeks ago)
-- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (3 weeks ago)
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (2 days ago)
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (2 days ago)
+- [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (3 weeks ago)
+- [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (4 weeks ago)
+- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (4 weeks ago)
+- [JRC1995/DemonRangerOptimizer](https://github.com/JRC1995/DemonRangerOptimizer) - Quasi Hyperbolic Rectified DEMON Adam/Amsgrad with AdaMod, Gradient Centralization, Lookahead, iterative averaging and decorrelated Weight Decay (4 weeks ago)
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research (1 month ago)
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (1 month ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (1 month ago)
