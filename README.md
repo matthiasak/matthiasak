@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (today)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (today)
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (4 days ago)
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (4 days ago)
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (3 weeks ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (1 month ago)
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (1 month ago)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (1 month ago)
-- [pingcap/ticdc](https://github.com/pingcap/ticdc) - Change data capture for TiDB (1 month ago)
-- [fxsjy/gonn](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
