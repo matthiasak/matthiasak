@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (today)
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go (today)
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go (today)
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. (today)
@@ -86,15 +87,14 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research (1 month ago)
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (1 month ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (1 month ago)
-- [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects &amp; applications integrated with Hugging Face libraries. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [hopelane](https://github.com/hopelane)
 - [rbarzi007](https://github.com/rbarzi007)
 - [Lisprez](https://github.com/Lisprez)
 - [mercyog](https://github.com/mercyog)
 - [singerdmx](https://github.com/singerdmx)
-- [alexoeducative](https://github.com/alexoeducative)
 
 #### 💬 Feedback
 
