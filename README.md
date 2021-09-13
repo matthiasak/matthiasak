@@ -67,10 +67,14 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (today)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (today)
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (4 days ago)
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (4 days ago)
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology. (today)
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APIs with controllers above or without clusters. (today)
+- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (today)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 day ago)
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 day ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 day ago)
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (5 days ago)
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (5 days ago)
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (3 weeks ago)
 - [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (1 month ago)
 - [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (1 month ago)
@@ -83,10 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (1 month ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (1 month ago)
 - [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (1 month ago)
-- [goml/gobrain](https://github.com/goml/gobrain) - Neural Networks written in go (1 month ago)
-- [jdeng/gomxnet](https://github.com/jdeng/gomxnet) - Amalgamation and go binding (1 month ago)
-- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more (1 month ago)
-- [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
