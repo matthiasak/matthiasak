@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (today)
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology. (today)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APIs with controllers above or without clusters. (today)
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (today)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist). (1 month ago)
 - [dataman-git/codes_for_articles](https://github.com/dataman-git/codes_for_articles) -  (1 month ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (1 month ago)
-- [dennybritz/rnn-tutorial-gru-lstm](https://github.com/dennybritz/rnn-tutorial-gru-lstm) - Language Model GRU with Python and Theano (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
