@@ -91,10 +91,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 #### 👯 Check out some of my recent followers
 
 - [Yoname](https://github.com/Yoname)
-- [hopelane](https://github.com/hopelane)
 - [rbarzi007](https://github.com/rbarzi007)
 - [Lisprez](https://github.com/Lisprez)
 - [mercyog](https://github.com/mercyog)
+- [singerdmx](https://github.com/singerdmx)
 
 #### 💬 Feedback
 
