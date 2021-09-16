@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [jostmey/rwa](https://github.com/jostmey/rwa) - Machine Learning on Sequential Data Using a Recurrent Weighted Average (today)
 - [NOX73/go-neural](https://github.com/NOX73/go-neural) - Neural network implementation on golang (today)
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command! (today)
 - [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at vectorized.io/redpanda (today)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python&#43;NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more (1 week ago)
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD&#39;s Machine Intelligence Library (3 weeks ago)
 - [aunum/gold](https://github.com/aunum/gold) - Reinforcement Learning in Go (1 month ago)
-- [owulveryck/lstm](https://github.com/owulveryck/lstm) - LSTM based on go and gorgonia (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
