@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [hashicorp/nomad-openapi](https://github.com/hashicorp/nomad-openapi) - OpenAPI specification and related artifacts for HashiCorp Nomad (today)
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (today)
 - [matrix-org/gomatrix](https://github.com/matrix-org/gomatrix) - A Golang Matrix client (today)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 day ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 week ago)
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 week ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
