@@ -67,6 +67,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (today)
+- [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) - The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment. (today)
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (today)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀 (today)
+- [andrewchambers/go-cdclient](https://github.com/andrewchambers/go-cdclient) - Fast implementation of the collectd network protocol for go. (today)
+- [jaskeerat789/Horizontal-Autoscale-Example](https://github.com/jaskeerat789/Horizontal-Autoscale-Example) - An example of Kubernetes&#39; Horizontal Pod Autoscaler using costume metrics. (today)
 - [hashicorp/nomad-openapi](https://github.com/hashicorp/nomad-openapi) - OpenAPI specification and related artifacts for HashiCorp Nomad (today)
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (today)
 - [matrix-org/gomatrix](https://github.com/matrix-org/gomatrix) - A Golang Matrix client (today)
@@ -81,12 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go (1 week ago)
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. (1 week ago)
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (1 week ago)
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology. (1 week ago)
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APIs with controllers above or without clusters. (1 week ago)
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (1 week ago)
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 week ago)
-- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 week ago)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
