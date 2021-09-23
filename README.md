@@ -67,6 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (today)
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (today)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (today)
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0&#43;. Producing, consuming, transacting, administrating, etc. (today)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 days ago)
 - [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) - The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment. (3 days ago)
@@ -84,9 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at vectorized.io/redpanda (1 week ago)
 - [samuel/go-opencl](https://github.com/samuel/go-opencl) - OpenCL bindings for Go (1 week ago)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 week ago)
-- [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go (1 week ago)
-- [cespare/percpu](https://github.com/cespare/percpu) - Best-effort CPU-local sharded values for Go (1 week ago)
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
