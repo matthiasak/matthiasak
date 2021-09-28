@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (today)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (4 days ago)
 - [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (5 days ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (5 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [NOX73/go-neural](https://github.com/NOX73/go-neural) - Neural network implementation on golang (1 week ago)
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command! (1 week ago)
 - [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda) - Redpanda is the real-time engine for modern apps.  Kafka API Compatible; 10x faster 🚀    See more at vectorized.io/redpanda (1 week ago)
-- [samuel/go-opencl](https://github.com/samuel/go-opencl) - OpenCL bindings for Go (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
