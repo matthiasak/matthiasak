@@ -23,7 +23,7 @@
 #### 🔨 My recent Pull Requests
 
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (6 months ago)
-- [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (6 months ago)
+- [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (7 months ago)
 - [[Snyk] Security upgrade sane from 1.7.0 to 4.0.2](https://github.com/matthiasak/arbiter-frame/pull/23) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (7 months ago)
 - [Extend/remove systemd timeout for slower systems](https://github.com/k3s-io/k3s/pull/226) on [k3s-io/k3s](https://github.com/k3s-io/k3s) (2 years ago)
 - [Extend timeout by default for slower systems](https://github.com/matthiasak/k3s/pull/1) on [matthiasak/k3s](https://github.com/matthiasak/k3s) (2 years ago)
@@ -67,8 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (2 days ago)
-- [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (6 days ago)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (3 days ago)
+- [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (1 week ago)
 - [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (1 week ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (1 week ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (1 week ago)
