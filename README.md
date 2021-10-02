@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (3 days ago)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (4 days ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (1 week ago)
 - [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (1 week ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (1 week ago)
