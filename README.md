@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [fomorians/lstm-odyssey](https://github.com/fomorians/lstm-odyssey) - Implementations of &#34;LSTM: A Search Space Odyssey&#34; variants and their training results on the PTB dataset. (today)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (today)
 - [debajyotidatta/RecurrentArchitectures](https://github.com/debajyotidatta/RecurrentArchitectures) - See the accompanying blog post (today)
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (today)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) - The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment. (2 weeks ago)
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (2 weeks ago)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀 (2 weeks ago)
-- [andrewchambers/go-cdclient](https://github.com/andrewchambers/go-cdclient) - Fast implementation of the collectd network protocol for go. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
