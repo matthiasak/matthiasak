@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (today)
 - [debajyotidatta/RecurrentArchitectures](https://github.com/debajyotidatta/RecurrentArchitectures) - See the accompanying blog post (today)
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (today)
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (today)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (2 weeks ago)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀 (2 weeks ago)
 - [andrewchambers/go-cdclient](https://github.com/andrewchambers/go-cdclient) - Fast implementation of the collectd network protocol for go. (2 weeks ago)
-- [jaskeerat789/Horizontal-Autoscale-Example](https://github.com/jaskeerat789/Horizontal-Autoscale-Example) - An example of Kubernetes&#39; Horizontal Pod Autoscaler using costume metrics. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
