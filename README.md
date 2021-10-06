@@ -67,6 +67,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (today)
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (today)
+- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models. (today)
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (today)
+- [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (today)
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (today)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (4 days ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (1 week ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (1 week ago)
@@ -81,12 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [andrewchambers/go-cdclient](https://github.com/andrewchambers/go-cdclient) - Fast implementation of the collectd network protocol for go. (2 weeks ago)
 - [jaskeerat789/Horizontal-Autoscale-Example](https://github.com/jaskeerat789/Horizontal-Autoscale-Example) - An example of Kubernetes&#39; Horizontal Pod Autoscaler using costume metrics. (2 weeks ago)
 - [hashicorp/nomad-openapi](https://github.com/hashicorp/nomad-openapi) - OpenAPI specification and related artifacts for HashiCorp Nomad (2 weeks ago)
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (2 weeks ago)
-- [matrix-org/gomatrix](https://github.com/matrix-org/gomatrix) - A Golang Matrix client (2 weeks ago)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 weeks ago)
-- [jostmey/rwa](https://github.com/jostmey/rwa) - Machine Learning on Sequential Data Using a Recurrent Weighted Average (2 weeks ago)
-- [NOX73/go-neural](https://github.com/NOX73/go-neural) - Neural network implementation on golang (2 weeks ago)
-- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
