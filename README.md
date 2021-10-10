@@ -90,11 +90,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### 👯 Check out some of my recent followers
 
+- [Sangeethshiv36](https://github.com/Sangeethshiv36)
 - [madhankumar028](https://github.com/madhankumar028)
 - [Kzip](https://github.com/Kzip)
 - [Yoname](https://github.com/Yoname)
 - [rbarzi007](https://github.com/rbarzi007)
-- [Lisprez](https://github.com/Lisprez)
 
 #### 💬 Feedback
 
