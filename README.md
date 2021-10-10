@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on (that isn't private repos)
 
-- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (5 months ago)
+- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,7 +48,7 @@
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (5 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (5 months ago)
 - [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (5 months ago)
-- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (5 months ago)
+- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (6 months ago)
 - [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (6 months ago)
 
 #### 📓 Gists I wrote
@@ -67,18 +67,18 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (2 days ago)
-- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (2 days ago)
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (3 days ago)
-- [fomorians/lstm-odyssey](https://github.com/fomorians/lstm-odyssey) - Implementations of &#34;LSTM: A Search Space Odyssey&#34; variants and their training results on the PTB dataset. (3 days ago)
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (3 days ago)
-- [debajyotidatta/RecurrentArchitectures](https://github.com/debajyotidatta/RecurrentArchitectures) - See the accompanying blog post (3 days ago)
-- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (3 days ago)
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (3 days ago)
-- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models. (3 days ago)
-- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (3 days ago)
-- [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (3 days ago)
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (3 days ago)
+- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (3 days ago)
+- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (3 days ago)
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (4 days ago)
+- [fomorians/lstm-odyssey](https://github.com/fomorians/lstm-odyssey) - Implementations of &#34;LSTM: A Search Space Odyssey&#34; variants and their training results on the PTB dataset. (4 days ago)
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (4 days ago)
+- [debajyotidatta/RecurrentArchitectures](https://github.com/debajyotidatta/RecurrentArchitectures) - See the accompanying blog post (4 days ago)
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (4 days ago)
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (4 days ago)
+- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models. (4 days ago)
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (4 days ago)
+- [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (4 days ago)
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (4 days ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (1 week ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (2 weeks ago)
