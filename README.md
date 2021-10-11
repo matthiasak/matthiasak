@@ -36,8 +36,8 @@
 #### 📜 My recent blog posts
 
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (3 months ago)
-- [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (3 months ago)
-- [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (3 months ago)
+- [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (4 months ago)
+- [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (4 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (5 months ago)
 - [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (5 months ago)
 - [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (5 months ago)
@@ -67,18 +67,18 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (3 days ago)
-- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (3 days ago)
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (4 days ago)
-- [fomorians/lstm-odyssey](https://github.com/fomorians/lstm-odyssey) - Implementations of &#34;LSTM: A Search Space Odyssey&#34; variants and their training results on the PTB dataset. (4 days ago)
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (4 days ago)
-- [debajyotidatta/RecurrentArchitectures](https://github.com/debajyotidatta/RecurrentArchitectures) - See the accompanying blog post (4 days ago)
-- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (4 days ago)
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (4 days ago)
-- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models. (4 days ago)
-- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (4 days ago)
-- [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (4 days ago)
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (4 days ago)
+- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (4 days ago)
+- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (4 days ago)
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (5 days ago)
+- [fomorians/lstm-odyssey](https://github.com/fomorians/lstm-odyssey) - Implementations of &#34;LSTM: A Search Space Odyssey&#34; variants and their training results on the PTB dataset. (5 days ago)
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (5 days ago)
+- [debajyotidatta/RecurrentArchitectures](https://github.com/debajyotidatta/RecurrentArchitectures) - See the accompanying blog post (5 days ago)
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (5 days ago)
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (5 days ago)
+- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models. (5 days ago)
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (5 days ago)
+- [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (5 days ago)
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (5 days ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (1 week ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (2 weeks ago)
@@ -86,7 +86,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (2 weeks ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 weeks ago)
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0&#43;. Producing, consuming, transacting, administrating, etc. (2 weeks ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (2 weeks ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
