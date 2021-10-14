@@ -67,8 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (6 days ago)
-- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (6 days ago)
+- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (1 week ago)
+- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (1 week ago)
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (1 week ago)
 - [fomorians/lstm-odyssey](https://github.com/fomorians/lstm-odyssey) - Implementations of &#34;LSTM: A Search Space Odyssey&#34; variants and their training results on the PTB dataset. (1 week ago)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (1 week ago)
@@ -82,10 +82,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (2 weeks ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (2 weeks ago)
-- [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (2 weeks ago)
-- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (2 weeks ago)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 weeks ago)
-- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0&#43;. Producing, consuming, transacting, administrating, etc. (2 weeks ago)
+- [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (3 weeks ago)
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (3 weeks ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 weeks ago)
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.0.0&#43;. Producing, consuming, transacting, administrating, etc. (3 weeks ago)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
