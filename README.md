@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (3 months ago)
+- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (4 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (4 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (4 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (5 months ago)
@@ -81,7 +81,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (1 week ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  (2 weeks ago)
-- [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (2 weeks ago)
+- [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (3 weeks ago)
 - [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (3 weeks ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (3 weeks ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 weeks ago)
