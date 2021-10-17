@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (today)
+- [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (1 day ago)
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (1 week ago)
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (1 week ago)
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (1 week ago)
