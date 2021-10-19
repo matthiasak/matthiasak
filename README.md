@@ -81,7 +81,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (1 week ago)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (1 week ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (2 weeks ago)
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the NSA-CISA and the MITRE ATT&amp;CK®  (3 weeks ago)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&amp;CK®. (3 weeks ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (3 weeks ago)
 - [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (3 weeks ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (3 weeks ago)
