@@ -67,8 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [github/copilot-preview](https://github.com/github/copilot-preview) - Documentation for GitHub Copilot (today)
-- [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (6 days ago)
+- [github/copilot-preview](https://github.com/github/copilot-preview) - Documentation for GitHub Copilot (1 day ago)
+- [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (1 week ago)
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (2 weeks ago)
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (2 weeks ago)
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (2 weeks ago)
@@ -81,12 +81,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (2 weeks ago)
 - [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (2 weeks ago)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (2 weeks ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (2 weeks ago)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (3 weeks ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&amp;CK®. (3 weeks ago)
 - [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (4 weeks ago)
-- [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (4 weeks ago)
-- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (4 weeks ago)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (4 weeks ago)
+- [golang-common-packages/template](https://github.com/golang-common-packages/template) - Clean Architecture using Golang. (1 month ago)
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (1 month ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
