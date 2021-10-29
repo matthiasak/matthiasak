@@ -67,9 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (today)
-- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (1 day ago)
-- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (1 day ago)
+- [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (1 day ago)
+- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (2 days ago)
+- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (2 days ago)
 - [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (1 week ago)
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (3 weeks ago)
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (3 weeks ago)
