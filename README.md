@@ -47,7 +47,7 @@
 - [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (5 months ago)
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (5 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (5 months ago)
-- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (5 months ago)
+- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (6 months ago)
 - [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (6 months ago)
 - [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (7 months ago)
 
@@ -67,9 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (4 days ago)
-- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (5 days ago)
-- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (5 days ago)
+- [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (5 days ago)
+- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (6 days ago)
+- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (6 days ago)
 - [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (2 weeks ago)
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (3 weeks ago)
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (3 weeks ago)
