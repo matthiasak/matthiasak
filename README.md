@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on (that isn't private repos)
 
-- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (6 months ago)
+- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,7 +48,7 @@
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (6 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (6 months ago)
 - [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (6 months ago)
-- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (6 months ago)
+- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (7 months ago)
 - [Quicktakes: Ghost 4.0 released](https://keas.app/quicktakes-ghost-4-0-released/) (7 months ago)
 
 #### 📓 Gists I wrote
