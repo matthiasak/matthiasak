@@ -36,8 +36,8 @@
 #### 📜 My recent blog posts
 
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (4 months ago)
-- [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (4 months ago)
-- [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (4 months ago)
+- [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (5 months ago)
+- [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (5 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (6 months ago)
 - [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (6 months ago)
 - [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (6 months ago)
@@ -68,8 +68,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 #### ⭐ Recent Stars
 
 - [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (1 week ago)
-- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (1 week ago)
-- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (1 week ago)
+- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (2 weeks ago)
+- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (2 weeks ago)
 - [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player (3 weeks ago)
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013. (1 month ago)
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com (1 month ago)
