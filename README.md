@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (4 months ago)
+- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (5 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (5 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (5 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (6 months ago)
@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/cloud-foundation-toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) - The Cloud Foundation toolkit provides GCP best practices as code. (2 days ago)
+- [GoogleCloudPlatform/cloud-foundation-toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) - The Cloud Foundation toolkit provides GCP best practices as code. (3 days ago)
 - [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (2 weeks ago)
 - [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (2 weeks ago)
 - [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (2 weeks ago)
