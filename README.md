@@ -67,6 +67,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (today)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (today)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (today)
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go (today)
 - [GoogleCloudPlatform/cloud-foundation-toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) - The Cloud Foundation toolkit provides GCP best practices as code. (4 days ago)
 - [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (2 weeks ago)
 - [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (2 weeks ago)
@@ -83,10 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models. (1 month ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 month ago)
 - [amit-davidson/btree](https://github.com/amit-davidson/btree) - B-tree implementation for Go (1 month ago)
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (1 month ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 month ago)
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&amp;CK®. (1 month ago)
-- [ains/aircast](https://github.com/ains/aircast) - AirPlay to Chromecast audio bridge (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
