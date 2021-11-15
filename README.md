@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (today)
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (today)
 - [inguardians/peirates](https://github.com/inguardians/peirates) - Peirates - Kubernetes Penetration Testing tool (today)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (today)
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network. (today)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go (today)
 - [GoogleCloudPlatform/cloud-foundation-toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) - The Cloud Foundation toolkit provides GCP best practices as code. (4 days ago)
 - [CoderOneHQ/bomberland](https://github.com/CoderOneHQ/bomberland) - Starter kits for Bomberland: a 1v1 multi-agent sandbox based on Bomberman (2 weeks ago)
-- [kevinvincent/ha-wyzesense](https://github.com/kevinvincent/ha-wyzesense) - A Home Assistant Component to interface with the WYZE Sense hub and sensor system (2 weeks ago)
-- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
