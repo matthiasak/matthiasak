@@ -67,9 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [orijtech/structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency. (6 days ago)
-- [CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp) - ⚡ Check your npm modules for unused and duplicate dependencies fast (6 days ago)
-- [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects (6 days ago)
+- [orijtech/structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency. (1 week ago)
+- [CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp) - ⚡ Check your npm modules for unused and duplicate dependencies fast (1 week ago)
+- [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects (1 week ago)
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (1 week ago)
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (1 week ago)
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go (1 week ago)
