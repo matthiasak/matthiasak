@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (5 months ago)
+- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (6 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (6 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (6 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (7 months ago)
@@ -60,14 +60,14 @@
 - [ko.js example](https://gist.github.com/4a6bf89be55fb8748df99f8fc8d068e1) (4 years ago)
 - [Create web workers without a separate worker JS files.
 Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad39fc7c191243c) (4 years ago)
-- [Hyper](https://gist.github.com/1004db7c17e6549102f764a43d8a602c) (4 years ago)
-- [&#34;Reclaim Windows 10&#34; turns off a bunch of unnecessary Windows 10 telemetery, removes bloatware, and privacy invasions. Review and tweak before running. Scripts for reversing are included and commented. Fork via https://github.com/Disassembler0 (different defaults)](https://gist.github.com/8f110d34c51b6aca60b4e7291155b92e) (4 years ago)
+- [Hyper](https://gist.github.com/1004db7c17e6549102f764a43d8a602c) (5 years ago)
+- [&#34;Reclaim Windows 10&#34; turns off a bunch of unnecessary Windows 10 telemetery, removes bloatware, and privacy invasions. Review and tweak before running. Scripts for reversing are included and commented. Fork via https://github.com/Disassembler0 (different defaults)](https://gist.github.com/8f110d34c51b6aca60b4e7291155b92e) (5 years ago)
 - [WebVR Projects](https://gist.github.com/5771cff8f97e927d73233807d8cb968c) (5 years ago)
 - [Copy and paste into https://matthiasak.github.io/arbiter-frame/](https://gist.github.com/5e89288e9d259d2f7aa5d222677b8819) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.  (1 day ago)
+- [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.  (2 days ago)
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems (1 week ago)
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 week ago)
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (1 week ago)
@@ -78,10 +78,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (3 weeks ago)
 - [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go (3 weeks ago)
 - [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) -  (3 weeks ago)
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions (3 weeks ago)
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers (3 weeks ago)
-- [second-state/WasmEdge-go](https://github.com/second-state/WasmEdge-go) - The GO language SDK and API for WasmEdge (3 weeks ago)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 weeks ago)
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions (4 weeks ago)
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers (4 weeks ago)
+- [second-state/WasmEdge-go](https://github.com/second-state/WasmEdge-go) - The GO language SDK and API for WasmEdge (4 weeks ago)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (4 weeks ago)
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (4 weeks ago)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (4 weeks ago)
 - [inguardians/peirates](https://github.com/inguardians/peirates) - Peirates - Kubernetes Penetration Testing tool (4 weeks ago)
