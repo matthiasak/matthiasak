@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go. (today)
+- [golang/go](https://github.com/golang/go) - The Go programming language (today)
 - [iovisor/gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs. (today)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (today)
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (today)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 weeks ago)
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (2 weeks ago)
 - [orijtech/structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency. (1 month ago)
-- [CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp) - ⚡ Check your npm modules for unused and duplicate dependencies fast (1 month ago)
-- [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
