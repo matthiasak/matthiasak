@@ -59,7 +59,7 @@
 - [fanflow talk](https://gist.github.com/e983d8424a1e7d51f0e45f3a844a5b0e) (4 years ago)
 - [ko.js example](https://gist.github.com/4a6bf89be55fb8748df99f8fc8d068e1) (4 years ago)
 - [Create web workers without a separate worker JS files.
-Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad39fc7c191243c) (4 years ago)
+Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad39fc7c191243c) (5 years ago)
 - [Hyper](https://gist.github.com/1004db7c17e6549102f764a43d8a602c) (5 years ago)
 - [&#34;Reclaim Windows 10&#34; turns off a bunch of unnecessary Windows 10 telemetery, removes bloatware, and privacy invasions. Review and tweak before running. Scripts for reversing are included and commented. Fork via https://github.com/Disassembler0 (different defaults)](https://gist.github.com/8f110d34c51b6aca60b4e7291155b92e) (5 years ago)
 - [WebVR Projects](https://gist.github.com/5771cff8f97e927d73233807d8cb968c) (5 years ago)
@@ -67,7 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. (5 days ago)
+- [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format. (1 day ago)
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. (6 days ago)
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.  (1 week ago)
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems (2 weeks ago)
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 weeks ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (1 month ago)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (1 month ago)
 - [inguardians/peirates](https://github.com/inguardians/peirates) - Peirates - Kubernetes Penetration Testing tool (1 month ago)
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
