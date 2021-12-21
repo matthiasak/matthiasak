@@ -67,6 +67,16 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (today)
+- [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (today)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (today)
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (today)
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform (today)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (today)
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (today)
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (today)
+- [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors (today)
+- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python (today)
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format. (1 day ago)
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. (6 days ago)
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.  (1 week ago)
@@ -77,16 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp) - ⚡ Check your npm modules for unused and duplicate dependencies fast (1 month ago)
 - [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects (1 month ago)
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (1 month ago)
-- [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (1 month ago)
-- [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go (1 month ago)
-- [Mirantis/cri-dockerd](https://github.com/Mirantis/cri-dockerd) -  (1 month ago)
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions (1 month ago)
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers. (1 month ago)
-- [second-state/WasmEdge-go](https://github.com/second-state/WasmEdge-go) - The GO language SDK and API for WasmEdge (1 month ago)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 month ago)
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (1 month ago)
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (1 month ago)
-- [inguardians/peirates](https://github.com/inguardians/peirates) - Peirates - Kubernetes Penetration Testing tool (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
