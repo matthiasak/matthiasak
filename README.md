@@ -67,6 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (today)
+- [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace (today)
+- [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player (today)
 - [madmicio/LG-WebOS-Remote-Control](https://github.com/madmicio/LG-WebOS-Remote-Control) - Remote Control for LG TV WebOS (today)
 - [segalion/raspipool](https://github.com/segalion/raspipool) - Swimming Pool Automation Systen with Raspberry Pi &#43; Home Assistant (1 day ago)
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go. (1 day ago)
@@ -84,9 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (2 days ago)
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (2 days ago)
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (2 days ago)
-- [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors (2 days ago)
-- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python (2 days ago)
-- [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
