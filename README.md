@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive (today)
 - [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs (1 day ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (1 day ago)
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace (1 day ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (3 days ago)
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform (3 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (3 days ago)
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
