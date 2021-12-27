@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop (today)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (today)
 - [terraform-google-modules/cloud-foundation-fabric](https://github.com/terraform-google-modules/cloud-foundation-fabric) - End-to-end modular samples for Terraform on GCP. (today)
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Example repo showing how the CFT modules can be composed to build a secure cloud foundation. (today)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [GoogleCloudPlatform/training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for courses for GCP Training (http://cloud.google.com/training). (today)
 - [GoogleCloudPlatform/tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners. (today)
 - [GoogleCloudPlatform/continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) - Get up and running with Jenkins on Google Kubernetes Engine (today)
-- [GoogleCloudPlatform/cloud-vision](https://github.com/GoogleCloudPlatform/cloud-vision) - Sample code for Google Cloud Vision (today)
 
 #### 👯 Check out some of my recent followers
 
