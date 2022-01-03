@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (today)
 - [BWbwchen/MapReduce](https://github.com/BWbwchen/MapReduce) - An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824 lab1. It supports multiple workers threads on a single machine and multiple processes on a single machine right now. (today)
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.  (today)
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (today)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE) (1 week ago)
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials. (1 week ago)
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team (1 week ago)
-- [GoogleCloudPlatform/functions-framework-go](https://github.com/GoogleCloudPlatform/functions-framework-go) - FaaS (Function as a service) framework for writing portable Go functions (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
