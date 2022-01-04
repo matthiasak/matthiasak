@@ -35,6 +35,8 @@
 
 #### 📜 My recent blog posts
 
+- [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (today)
+- [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (today)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (1 week ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (6 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (6 months ago)
@@ -48,8 +50,6 @@
 - [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (7 months ago)
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (7 months ago)
 - [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (7 months ago)
-- [Thoughts on Cloud Reliability](https://keas.app/cloud-operations-checklist/) (8 months ago)
-- [Kubernetes 1.21 is introducing interruptable/suspended jobs](https://keas.app/kubernetes-1-21-is-introducing-interruptable-suspended-jobs/) (8 months ago)
 
 #### 📓 Gists I wrote
 
