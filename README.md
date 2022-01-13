@@ -38,7 +38,7 @@
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (1 week ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (1 week ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (2 weeks ago)
-- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (6 months ago)
+- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (7 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (7 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (7 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (8 months ago)
@@ -67,9 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (2 days ago)
-- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (5 days ago)
-- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (5 days ago)
+- [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (3 days ago)
+- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (6 days ago)
+- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (6 days ago)
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 week ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup (1 week ago)
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (1 week ago)
