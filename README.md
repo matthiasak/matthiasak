@@ -67,8 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (5 days ago)
-- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (5 days ago)
+- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (6 days ago)
+- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (6 days ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (1 week ago)
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (1 week ago)
 - [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (1 week ago)
