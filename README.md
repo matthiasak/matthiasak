@@ -67,12 +67,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (today)
-- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (6 days ago)
-- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (6 days ago)
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (1 day ago)
+- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (1 week ago)
+- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (1 week ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (1 week ago)
-- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (1 week ago)
-- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (1 week ago)
+- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (2 weeks ago)
+- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (2 weeks ago)
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (2 weeks ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (2 weeks ago)
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (2 weeks ago)
@@ -86,7 +86,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.  (2 weeks ago)
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (2 weeks ago)
 - [GoogleCloudPlatform/gcpdiag](https://github.com/GoogleCloudPlatform/gcpdiag) - gcpdiag is a command-line diagnostics tool for GCP customers. (2 weeks ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (2 weeks ago)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
