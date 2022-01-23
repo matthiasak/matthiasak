@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (2 days ago)
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (3 days ago)
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (1 week ago)
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (1 week ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (1 week ago)
