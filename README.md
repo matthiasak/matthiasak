@@ -67,6 +67,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (today)
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (today)
+- [GavinClarke0/LocklessGenericRingBuffer](https://github.com/GavinClarke0/LocklessGenericRingBuffer) - Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces. (today)
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation for your machines. :open_file_folder: (today)
+- [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more (today)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (5 days ago)
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (1 week ago)
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (1 week ago)
@@ -82,11 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.  (3 weeks ago)
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (3 weeks ago)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (3 weeks ago)
-- [BWbwchen/MapReduce](https://github.com/BWbwchen/MapReduce) - An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824 lab1. It supports multiple workers threads on a single machine and multiple processes on a single machine right now. (3 weeks ago)
-- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.  (3 weeks ago)
-- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (3 weeks ago)
-- [GoogleCloudPlatform/gcpdiag](https://github.com/GoogleCloudPlatform/gcpdiag) - gcpdiag is a command-line diagnostics tool for GCP customers. (3 weeks ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
