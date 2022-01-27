@@ -67,12 +67,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (1 day ago)
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 day ago)
-- [GavinClarke0/LocklessGenericRingBuffer](https://github.com/GavinClarke0/LocklessGenericRingBuffer) - Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces. (1 day ago)
-- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation for your machines. :open_file_folder: (1 day ago)
-- [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more (1 day ago)
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (6 days ago)
+- [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (2 days ago)
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (2 days ago)
+- [GavinClarke0/LocklessGenericRingBuffer](https://github.com/GavinClarke0/LocklessGenericRingBuffer) - Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces. (2 days ago)
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation for your machines. :open_file_folder: (2 days ago)
+- [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more (2 days ago)
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (1 week ago)
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (1 week ago)
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (1 week ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (2 weeks ago)
