@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (2 days ago)
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (3 days ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (1 week ago)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 week ago)
 - [GavinClarke0/lockless-generic-ring-buffer](https://github.com/GavinClarke0/lockless-generic-ring-buffer) - Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces. (1 week ago)
@@ -79,14 +79,14 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (3 weeks ago)
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (3 weeks ago)
 - [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (3 weeks ago)
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (3 weeks ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (3 weeks ago)
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (4 weeks ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (4 weeks ago)
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (4 weeks ago)
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 (4 weeks ago)
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (4 weeks ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (4 weeks ago)
-- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.  (4 weeks ago)
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (4 weeks ago)
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (1 month ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 month ago)
+- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.  (1 month ago)
+- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
