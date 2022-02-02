@@ -35,6 +35,7 @@
 
 #### 📜 My recent blog posts
 
+- [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (today)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (4 weeks ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (4 weeks ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (1 month ago)
@@ -49,7 +50,6 @@
 - [How Kubernetes Secrets Stay Secret](https://keas.app/how-kubernetes-secrets-stay-secret/) (8 months ago)
 - [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (8 months ago)
 - [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (8 months ago)
-- [Ingress is Dead, Long Live Ingress!](https://keas.app/ingress-is-dead-long-live-ingress/) (8 months ago)
 
 #### 📓 Gists I wrote
 
