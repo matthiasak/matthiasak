@@ -35,6 +35,7 @@
 
 #### 📜 My recent blog posts
 
+- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (today)
 - [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (1 day ago)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (1 month ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (1 month ago)
@@ -49,7 +50,6 @@
 - [K8s now gracefully reschedules pods before a node is shutdown](https://keas.app/k8s-now-gracefully-reschedules-pods-before-a-node-is-shutdown/) (8 months ago)
 - [How Kubernetes Secrets Stay Secret](https://keas.app/how-kubernetes-secrets-stay-secret/) (8 months ago)
 - [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (8 months ago)
-- [The new way of &#34;doing ingress&#34; in Kubernetes - The Gateway API](https://keas.app/the-new-way-of-doing-ingress-in-kubernetes-the-gateway-api/) (8 months ago)
 
 #### 📓 Gists I wrote
 
@@ -67,6 +67,13 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (today)
+- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (today)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (today)
+- [AI4Finance-Foundation/FinRL_Podracer](https://github.com/AI4Finance-Foundation/FinRL_Podracer) - FinRL-Podracer is a cloud solution. (today)
+- [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms (today)
+- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Scalable and Elastic Deep Reinforcement Learning Using PyTorch. Please star. 🔥 (today)
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥 (today)
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (4 days ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (1 week ago)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 week ago)
@@ -80,13 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (3 weeks ago)
 - [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (3 weeks ago)
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (4 weeks ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (4 weeks ago)
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (1 month ago)
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 (1 month ago)
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (1 month ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 month ago)
-- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.  (1 month ago)
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
