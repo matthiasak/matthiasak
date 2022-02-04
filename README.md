@@ -35,21 +35,21 @@
 
 #### 📜 My recent blog posts
 
-- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (today)
-- [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (1 day ago)
+- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (1 day ago)
+- [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (2 days ago)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (1 month ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (1 month ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (1 month ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (7 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (7 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (7 months ago)
-- [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (8 months ago)
-- [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (8 months ago)
-- [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (8 months ago)
-- [An interesting note on annotations in K8s for humans](https://keas.app/an-interesting-note-on-annotations-in-k8s-for-humans/) (8 months ago)
-- [K8s now gracefully reschedules pods before a node is shutdown](https://keas.app/k8s-now-gracefully-reschedules-pods-before-a-node-is-shutdown/) (8 months ago)
-- [How Kubernetes Secrets Stay Secret](https://keas.app/how-kubernetes-secrets-stay-secret/) (8 months ago)
-- [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (8 months ago)
+- [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (9 months ago)
+- [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (9 months ago)
+- [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (9 months ago)
+- [An interesting note on annotations in K8s for humans](https://keas.app/an-interesting-note-on-annotations-in-k8s-for-humans/) (9 months ago)
+- [K8s now gracefully reschedules pods before a node is shutdown](https://keas.app/k8s-now-gracefully-reschedules-pods-before-a-node-is-shutdown/) (9 months ago)
+- [How Kubernetes Secrets Stay Secret](https://keas.app/how-kubernetes-secrets-stay-secret/) (9 months ago)
+- [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (9 months ago)
 
 #### 📓 Gists I wrote
 
@@ -67,26 +67,26 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (today)
-- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (today)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (today)
-- [AI4Finance-Foundation/FinRL_Podracer](https://github.com/AI4Finance-Foundation/FinRL_Podracer) - FinRL-Podracer is a cloud solution. (today)
-- [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms (today)
-- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Scalable and Elastic Deep Reinforcement Learning Using PyTorch. Please star. 🔥 (today)
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥 (today)
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (4 days ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 day ago)
+- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (1 day ago)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 day ago)
+- [AI4Finance-Foundation/FinRL_Podracer](https://github.com/AI4Finance-Foundation/FinRL_Podracer) - FinRL-Podracer is a cloud solution. (1 day ago)
+- [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms (1 day ago)
+- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Scalable and Elastic Deep Reinforcement Learning Using PyTorch. Please star. 🔥 (1 day ago)
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥 (1 day ago)
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (5 days ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (1 week ago)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 week ago)
 - [GavinClarke0/lockless-generic-ring-buffer](https://github.com/GavinClarke0/lockless-generic-ring-buffer) - Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces. (1 week ago)
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation for your machines. :open_file_folder: (1 week ago)
 - [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more (1 week ago)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (2 weeks ago)
-- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (2 weeks ago)
-- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (2 weeks ago)
+- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (3 weeks ago)
+- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (3 weeks ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (3 weeks ago)
-- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (3 weeks ago)
-- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (3 weeks ago)
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (4 weeks ago)
+- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (4 weeks ago)
+- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (4 weeks ago)
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
