@@ -67,6 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab&#39;s k3s in Docker (today)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (today)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 day ago)
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (1 day ago)
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 day ago)
@@ -85,8 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (3 weeks ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (3 weeks ago)
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (4 weeks ago)
-- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (4 weeks ago)
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
