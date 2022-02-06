@@ -35,8 +35,8 @@
 
 #### 📜 My recent blog posts
 
-- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (2 days ago)
-- [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (3 days ago)
+- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (3 days ago)
+- [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (4 days ago)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (1 month ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (1 month ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (1 month ago)
@@ -67,16 +67,16 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab&#39;s k3s in Docker (1 day ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 day ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
-- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (2 days ago)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (2 days ago)
-- [AI4Finance-Foundation/FinRL_Podracer](https://github.com/AI4Finance-Foundation/FinRL_Podracer) - FinRL-Podracer is a cloud solution. (2 days ago)
-- [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms (2 days ago)
-- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Scalable and Elastic Deep Reinforcement Learning Using PyTorch. Please star. 🔥 (2 days ago)
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥 (2 days ago)
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (6 days ago)
+- [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab&#39;s k3s in Docker (2 days ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (2 days ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (3 days ago)
+- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (3 days ago)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (3 days ago)
+- [AI4Finance-Foundation/FinRL_Podracer](https://github.com/AI4Finance-Foundation/FinRL_Podracer) - FinRL-Podracer is a cloud solution. (3 days ago)
+- [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms (3 days ago)
+- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Scalable and Elastic Deep Reinforcement Learning Using PyTorch. Please star. 🔥 (3 days ago)
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥 (3 days ago)
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript &amp; TypeScript Codebases (1 week ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (1 week ago)
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka. (1 week ago)
 - [GavinClarke0/lockless-generic-ring-buffer](https://github.com/GavinClarke0/lockless-generic-ring-buffer) - Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces. (1 week ago)
@@ -86,7 +86,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly &amp; Safer GORM powered by Code Generation (3 weeks ago)
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. (3 weeks ago)
 - [alexpantyukhin/go-pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matchings for Go. (3 weeks ago)
-- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (4 weeks ago)
+- [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow &#43; Go, the gopher way (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
