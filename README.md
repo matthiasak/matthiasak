@@ -83,7 +83,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [ZENALC/algobot](https://github.com/ZENALC/algobot) - Cryptocurrency trading bot with a graphical user interface with support for simulations, backtests, optimizations, and running live bots. (5 days ago)
 - [cinar/indicator](https://github.com/cinar/indicator) - Indicator is a Golang module providing various stock technical analysis indicators for trading. (5 days ago)
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) (5 days ago)
-- [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab&#39;s k3s in Docker (1 week ago)
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (1 week ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 week ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (1 week ago)
