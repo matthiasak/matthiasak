@@ -67,8 +67,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (4 days ago)
-- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (6 days ago)
+- [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (5 days ago)
+- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (1 week ago)
 - [VITA-Group/TENAS](https://github.com/VITA-Group/TENAS) - [ICLR 2021] &#34;Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective&#34; by Wuyang Chen, Xinyu Gong, Zhangyang Wang (1 week ago)
 - [gorgonia/parser](https://github.com/gorgonia/parser) - A simple parser that turns a formulae written in unicode into an ExprGraph (1 week ago)
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model (1 week ago)
