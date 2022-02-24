@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (2 weeks ago)
+- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (3 weeks ago)
 - [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (3 weeks ago)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (1 month ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (1 month ago)
@@ -86,7 +86,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) (2 weeks ago)
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (2 weeks ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (2 weeks ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 weeks ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
