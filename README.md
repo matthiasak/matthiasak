@@ -67,7 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repo provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (2 days ago)
+- [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (2 days ago)
 - [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (2 weeks ago)
 - [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (2 weeks ago)
 - [VITA-Group/TENAS](https://github.com/VITA-Group/TENAS) - [ICLR 2021] &#34;Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective&#34; by Wuyang Chen, Xinyu Gong, Zhangyang Wang (2 weeks ago)
