@@ -31,7 +31,7 @@
 - [Fixes runtime issues with a type and some missing require statements](https://github.com/vercel/vercel/pull/946) on [vercel/vercel](https://github.com/vercel/vercel) (4 years ago)
 - [Get `now gcp login` working on various linux distros again?](https://github.com/vercel/vercel/pull/944) on [vercel/vercel](https://github.com/vercel/vercel) (4 years ago)
 - [Please iterate patch number and deploy alongside #448](https://github.com/fuse-box/fuse-box/pull/450) on [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) (4 years ago)
-- [little tweak for __generator.js for IE9/10/11](https://github.com/fuse-box/fuse-box/pull/448) on [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) (4 years ago)
+- [little tweak for __generator.js for IE9/10/11](https://github.com/fuse-box/fuse-box/pull/448) on [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) (5 years ago)
 
 #### 📜 My recent blog posts
 
@@ -43,13 +43,13 @@
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (8 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (8 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (8 months ago)
-- [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (9 months ago)
-- [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (9 months ago)
-- [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (9 months ago)
-- [An interesting note on annotations in K8s for humans](https://keas.app/an-interesting-note-on-annotations-in-k8s-for-humans/) (9 months ago)
-- [K8s now gracefully reschedules pods before a node is shutdown](https://keas.app/k8s-now-gracefully-reschedules-pods-before-a-node-is-shutdown/) (9 months ago)
-- [How Kubernetes Secrets Stay Secret](https://keas.app/how-kubernetes-secrets-stay-secret/) (9 months ago)
-- [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (9 months ago)
+- [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (10 months ago)
+- [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (10 months ago)
+- [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (10 months ago)
+- [An interesting note on annotations in K8s for humans](https://keas.app/an-interesting-note-on-annotations-in-k8s-for-humans/) (10 months ago)
+- [K8s now gracefully reschedules pods before a node is shutdown](https://keas.app/k8s-now-gracefully-reschedules-pods-before-a-node-is-shutdown/) (10 months ago)
+- [How Kubernetes Secrets Stay Secret](https://keas.app/how-kubernetes-secrets-stay-secret/) (10 months ago)
+- [Error and Outage Budget Reference Card for SREs](https://keas.app/error-and-outage-budget-reference-card-for-sres/) (10 months ago)
 
 #### 📓 Gists I wrote
 
@@ -67,9 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (5 days ago)
+- [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (6 days ago)
 - [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (2 weeks ago)
-- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (2 weeks ago)
+- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (3 weeks ago)
 - [VITA-Group/TENAS](https://github.com/VITA-Group/TENAS) - [ICLR 2021] &#34;Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective&#34; by Wuyang Chen, Xinyu Gong, Zhangyang Wang (3 weeks ago)
 - [gorgonia/parser](https://github.com/gorgonia/parser) - A simple parser that turns a formulae written in unicode into an ExprGraph (3 weeks ago)
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model (3 weeks ago)
@@ -85,8 +85,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [ZENALC/algobot](https://github.com/ZENALC/algobot) - Cryptocurrency trading bot with a graphical user interface with support for simulations, backtests, optimizations, and running live bots. (3 weeks ago)
 - [cinar/indicator](https://github.com/cinar/indicator) - Indicator is a Golang module providing various stock technical analysis indicators for trading. (3 weeks ago)
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) (3 weeks ago)
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (4 weeks ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (4 weeks ago)
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (1 month ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
