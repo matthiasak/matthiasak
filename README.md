@@ -67,15 +67,15 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. (6 days ago)
-- [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. (6 days ago)
-- [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow... (6 days ago)
-- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - (Golang) Go bindings for the Hugging Face Inference API (6 days ago)
-- [facebookresearch/ppuda](https://github.com/facebookresearch/ppuda) - Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021) (6 days ago)
+- [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. (1 week ago)
+- [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. (1 week ago)
+- [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow... (1 week ago)
+- [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - (Golang) Go bindings for the Hugging Face Inference API (1 week ago)
+- [facebookresearch/ppuda](https://github.com/facebookresearch/ppuda) - Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021) (1 week ago)
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA &amp; friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation. (1 week ago)
 - [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (2 weeks ago)
-- [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (3 weeks ago)
-- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (4 weeks ago)
+- [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (4 weeks ago)
+- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (1 month ago)
 - [VITA-Group/TENAS](https://github.com/VITA-Group/TENAS) - [ICLR 2021] &#34;Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective&#34; by Wuyang Chen, Xinyu Gong, Zhangyang Wang (1 month ago)
 - [gorgonia/parser](https://github.com/gorgonia/parser) - A simple parser that turns a formulae written in unicode into an ExprGraph (1 month ago)
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model (1 month ago)
