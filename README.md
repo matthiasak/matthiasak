@@ -35,10 +35,10 @@
 
 #### 📜 My recent blog posts
 
-- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (1 month ago)
+- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (2 months ago)
 - [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (2 months ago)
-- [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (2 months ago)
-- [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (2 months ago)
+- [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (3 months ago)
+- [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (3 months ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (3 months ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (9 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (9 months ago)
