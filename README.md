@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on (that isn't private repos)
 
-- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (11 months ago)
+- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -67,10 +67,10 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (1 day ago)
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (1 day ago)
-- [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (2 days ago)
-- [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (2 days ago)
+- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (2 days ago)
+- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (2 days ago)
+- [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (3 days ago)
+- [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (3 days ago)
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (2 weeks ago)
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. (1 month ago)
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. (1 month ago)
