@@ -41,8 +41,8 @@
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (3 months ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (3 months ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (9 months ago)
-- [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (9 months ago)
-- [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (9 months ago)
+- [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (10 months ago)
+- [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (10 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (11 months ago)
 - [I have not heard of the &#34;CPaaS&#34; approach before](https://keas.app/i-have-not-heard-of-the-cpaas-approach-before/) (11 months ago)
 - [K8s CSI now supports monitoring the health of volumes](https://keas.app/k8s-csi-now-supports-monitoring-the-health-of-volumes/) (11 months ago)
@@ -67,11 +67,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (2 days ago)
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (2 days ago)
-- [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (3 days ago)
-- [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (3 days ago)
-- [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (2 weeks ago)
+- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (3 days ago)
+- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (3 days ago)
+- [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (4 days ago)
+- [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (4 days ago)
+- [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (3 weeks ago)
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. (1 month ago)
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. (1 month ago)
 - [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow... (1 month ago)
