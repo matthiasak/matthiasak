@@ -67,6 +67,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [sajari/regression](https://github.com/sajari/regression) - Multivariable regression library in Go (today)
+- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (today)
+- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0&#43; accelerated using Apple&#39;s ML Compute framework.  (today)
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (today)
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (5 days ago)
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (5 days ago)
@@ -84,9 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (1 month ago)
 - [VITA-Group/TENAS](https://github.com/VITA-Group/TENAS) - [ICLR 2021] &#34;Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective&#34; by Wuyang Chen, Xinyu Gong, Zhangyang Wang (1 month ago)
 - [gorgonia/parser](https://github.com/gorgonia/parser) - A simple parser that turns a formulae written in unicode into an ExprGraph (1 month ago)
-- [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model (1 month ago)
-- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame) - C&#43;&#43; DataFrame for statistical, Financial, and ML analysis -- in modern C&#43;&#43; using native types and contiguous memory storage (2 months ago)
-- [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
