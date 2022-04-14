@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (today)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (today)
 - [sajari/regression](https://github.com/sajari/regression) - Multivariable regression library in Go (3 days ago)
 - [apple/ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (3 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (1 month ago)
 - [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (1 month ago)
 - [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (2 months ago)
-- [VITA-Group/TENAS](https://github.com/VITA-Group/TENAS) - [ICLR 2021] &#34;Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective&#34; by Wuyang Chen, Xinyu Gong, Zhangyang Wang (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
