@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (today)
+- [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 day ago)
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
 - [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
 - [[Snyk] Security upgrade sane from 1.7.0 to 4.0.2](https://github.com/matthiasak/arbiter-frame/pull/23) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
@@ -67,17 +67,17 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 day ago)
-- [sajari/regression](https://github.com/sajari/regression) - Multivariable regression library in Go (4 days ago)
-- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (4 days ago)
-- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0&#43; accelerated using Apple&#39;s ML Compute framework.  (4 days ago)
-- [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (4 days ago)
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (2 days ago)
+- [sajari/regression](https://github.com/sajari/regression) - Multivariable regression library in Go (5 days ago)
+- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) - Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding (5 days ago)
+- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0&#43; accelerated using Apple&#39;s ML Compute framework.  (5 days ago)
+- [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (5 days ago)
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (1 week ago)
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (1 week ago)
 - [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (1 week ago)
 - [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (1 week ago)
-- [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (3 weeks ago)
+- [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (4 weeks ago)
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. (1 month ago)
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. (1 month ago)
 - [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow... (1 month ago)
@@ -85,7 +85,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [facebookresearch/ppuda](https://github.com/facebookresearch/ppuda) - Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021) (1 month ago)
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA &amp; friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation. (1 month ago)
 - [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (1 month ago)
-- [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (1 month ago)
+- [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (2 months ago)
 - [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (2 months ago)
 
 #### 👯 Check out some of my recent followers
