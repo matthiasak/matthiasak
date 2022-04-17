@@ -67,6 +67,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (3 days ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 days ago)
 - [sajari/regression](https://github.com/sajari/regression) - Multivariable regression library in Go (6 days ago)
@@ -86,7 +87,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA &amp; friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation. (1 month ago)
 - [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. (1 month ago)
 - [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks (2 months ago)
-- [Jingjing-NLP/KNAS](https://github.com/Jingjing-NLP/KNAS) - Codes for paper &#34;KNAS: Green Neural Architecture Search&#34; (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
