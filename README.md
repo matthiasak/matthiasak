@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on (that isn't private repos)
 
-- [matthiasak/kubernetes-scaffold](https://github.com/matthiasak/kubernetes-scaffold) - A general setup Makefile and resources for a live-reload workflow (1 year ago)
 
 #### 🌱 My latest projects
 
