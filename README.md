@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language. (today)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (3 days ago)
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge&#39;s notes on the various go profiling methods that are available. (3 days ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (3 days ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. (1 month ago)
 - [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) - Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow... (1 month ago)
 - [TannerKvarfordt/hfapigo](https://github.com/TannerKvarfordt/hfapigo) - (Golang) Go bindings for the Hugging Face Inference API (1 month ago)
-- [facebookresearch/ppuda](https://github.com/facebookresearch/ppuda) - Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
