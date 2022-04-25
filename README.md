@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (today)
 - [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (today)
 - [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (today)
 - [kubesphere/kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳 (today)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (2 weeks ago)
 - [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (2 weeks ago)
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (1 month ago)
-- [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
