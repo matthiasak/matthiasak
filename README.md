@@ -38,7 +38,7 @@
 - [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (2 months ago)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (3 months ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (3 months ago)
-- [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (3 months ago)
+- [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (4 months ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (10 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (10 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (10 months ago)
@@ -66,14 +66,14 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (today)
-- [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (today)
-- [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (today)
-- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳 (today)
-- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language. (1 day ago)
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (4 days ago)
-- [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge&#39;s notes on the various go profiling methods that are available. (4 days ago)
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (4 days ago)
+- [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (1 day ago)
+- [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (1 day ago)
+- [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (1 day ago)
+- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳 (1 day ago)
+- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language. (2 days ago)
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (5 days ago)
+- [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge&#39;s notes on the various go profiling methods that are available. (5 days ago)
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (5 days ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 week ago)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (1 week ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 week ago)
@@ -83,8 +83,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (2 weeks ago)
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy. (2 weeks ago)
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go. (2 weeks ago)
-- [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (2 weeks ago)
-- [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (2 weeks ago)
+- [dematron/go-tvscanner](https://github.com/dematron/go-tvscanner) - Trading view scanner api client (3 weeks ago)
+- [kostaspt/go-tradingview](https://github.com/kostaspt/go-tradingview) -  (3 weeks ago)
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like &#34;go run&#34; or &#34;go test&#34; (1 month ago)
 
 #### 👯 Check out some of my recent followers
