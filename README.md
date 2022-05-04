@@ -34,10 +34,10 @@
 
 #### 📜 My recent blog posts
 
-- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (2 months ago)
+- [The Go Profiling Kickstart](https://keas.app/the-go-profiling/) (3 months ago)
 - [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (3 months ago)
-- [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (3 months ago)
-- [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (3 months ago)
+- [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (4 months ago)
+- [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (4 months ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (4 months ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (10 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (10 months ago)
@@ -66,7 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Big Sur &#43; Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (2 days ago)
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Big Sur &#43; Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (3 days ago)
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (1 week ago)
 - [hexops/mach-glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more. (1 week ago)
 - [TomerAberbach/lfi](https://github.com/TomerAberbach/lfi) - 🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration. (1 week ago)
