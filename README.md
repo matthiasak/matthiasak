@@ -66,12 +66,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (4 days ago)
+- [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (5 days ago)
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Big Sur &#43; Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (1 week ago)
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (1 week ago)
-- [hexops/mach-glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more. (1 week ago)
-- [TomerAberbach/lfi](https://github.com/TomerAberbach/lfi) - 🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration. (1 week ago)
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (1 week ago)
+- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (2 weeks ago)
+- [hexops/mach-glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more. (2 weeks ago)
+- [TomerAberbach/lfi](https://github.com/TomerAberbach/lfi) - 🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration. (2 weeks ago)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (2 weeks ago)
 - [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (2 weeks ago)
 - [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (2 weeks ago)
 - [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (2 weeks ago)
