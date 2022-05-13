@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (3 weeks ago)
+- [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (4 weeks ago)
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
 - [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
 - [[Snyk] Security upgrade sane from 1.7.0 to 4.0.2](https://github.com/matthiasak/arbiter-frame/pull/23) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
@@ -39,7 +39,7 @@
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (4 months ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (4 months ago)
 - [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (4 months ago)
-- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (10 months ago)
+- [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (11 months ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (11 months ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (11 months ago)
 - [Immutable Secrets and ConfigMaps: One of the most desirable controls for Kubernetes in the last few years, IMHO](https://keas.app/immutable-secrets-and-configmaps-one-of-the-most-desirable-controls-for-kubernetes-in-the-last-few-years-imho/) (1 year ago)
@@ -66,8 +66,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (2 days ago)
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 days ago)
+- [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (3 days ago)
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (3 days ago)
 - [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (1 week ago)
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Big Sur &#43; Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (1 week ago)
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (2 weeks ago)
