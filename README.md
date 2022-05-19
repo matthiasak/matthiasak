@@ -66,6 +66,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (today)
+- [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (today)
+- [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (today)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (1 week ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 week ago)
 - [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (2 weeks ago)
@@ -83,9 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge&#39;s notes on the various go profiling methods that are available. (4 weeks ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (4 weeks ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 month ago)
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (1 month ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 month ago)
-- [sajari/regression](https://github.com/sajari/regression) - Multivariable regression library in Go (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
