@@ -66,6 +66,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (today)
+- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (today)
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (1 day ago)
 - [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (1 day ago)
 - [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (1 day ago)
@@ -84,8 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [kubesphere/kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳 (3 weeks ago)
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language. (3 weeks ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (4 weeks ago)
-- [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge&#39;s notes on the various go profiling methods that are available. (4 weeks ago)
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
