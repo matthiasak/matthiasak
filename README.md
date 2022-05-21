@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Fix for 2 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/35) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (6 days ago)
+- [[Snyk] Fix for 2 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/35) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 week ago)
 - [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 month ago)
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
 - [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
@@ -54,7 +54,7 @@
 
 - [My Favorite Mac Tweaks](https://gist.github.com/e94e962b3966e7e1015f4a62b5c2e7ff) (2 years ago)
 - [https://git.io/fNw6B](https://gist.github.com/62e5a7ab75ce4ac95263a5ced511de12) (3 years ago)
-- [Bulk delete github repos](https://gist.github.com/3213ba5e44be3b08bb84fb667d54d1e7) (3 years ago)
+- [Bulk delete github repos](https://gist.github.com/3213ba5e44be3b08bb84fb667d54d1e7) (4 years ago)
 - [fanflow talk](https://gist.github.com/e983d8424a1e7d51f0e45f3a844a5b0e) (4 years ago)
 - [ko.js example](https://gist.github.com/4a6bf89be55fb8748df99f8fc8d068e1) (5 years ago)
 - [Create web workers without a separate worker JS files.
@@ -66,12 +66,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (today)
-- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (today)
-- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (1 day ago)
-- [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (1 day ago)
-- [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (1 day ago)
-- [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (1 day ago)
+- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (1 day ago)
+- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (1 day ago)
+- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (2 days ago)
+- [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (2 days ago)
+- [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (2 days ago)
+- [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (2 days ago)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (1 week ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 week ago)
 - [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (2 weeks ago)
@@ -85,7 +85,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (3 weeks ago)
 - [kubesphere/kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳 (3 weeks ago)
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language. (3 weeks ago)
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (4 weeks ago)
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
