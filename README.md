@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (today)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (1 day ago)
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 days ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (4 days ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (4 weeks ago)
 - [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (4 weeks ago)
 - [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (4 weeks ago)
-- [kubesphere/kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
