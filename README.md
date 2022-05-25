@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Security upgrade autoprefixer from 6.7.7 to 9.0.0](https://github.com/matthiasak/arbiter-frame/pull/36) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (3 days ago)
+- [[Snyk] Security upgrade autoprefixer from 6.7.7 to 9.0.0](https://github.com/matthiasak/arbiter-frame/pull/36) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (4 days ago)
 - [[Snyk] Fix for 2 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/35) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 week ago)
 - [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 month ago)
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
@@ -66,15 +66,15 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (today)
-- [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (1 day ago)
-- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 days ago)
-- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (4 days ago)
-- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (4 days ago)
-- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (5 days ago)
-- [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (5 days ago)
-- [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (5 days ago)
-- [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (5 days ago)
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 day ago)
+- [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (2 days ago)
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (3 days ago)
+- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (5 days ago)
+- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (5 days ago)
+- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (6 days ago)
+- [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (6 days ago)
+- [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (6 days ago)
+- [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (6 days ago)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (2 weeks ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 weeks ago)
 - [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (2 weeks ago)
@@ -83,9 +83,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [hexops/mach-glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more. (4 weeks ago)
 - [TomerAberbach/lfi](https://github.com/TomerAberbach/lfi) - 🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration. (4 weeks ago)
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (4 weeks ago)
-- [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (4 weeks ago)
-- [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (4 weeks ago)
-- [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (4 weeks ago)
+- [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (1 month ago)
+- [steveschow/gfxCardStatus](https://github.com/steveschow/gfxCardStatus) - This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better (1 month ago)
+- [codykrieger/gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
