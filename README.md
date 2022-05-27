@@ -66,6 +66,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (today)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (today)
 - [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (1 day ago)
 - [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (2 days ago)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (3 days ago)
@@ -84,8 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (1 month ago)
 - [hexops/mach-glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more. (1 month ago)
 - [TomerAberbach/lfi](https://github.com/TomerAberbach/lfi) - 🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration. (1 month ago)
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (1 month ago)
-- [run-ai/rntop](https://github.com/run-ai/rntop) - A top-like tool for monitoring GPUs in a cluster (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
