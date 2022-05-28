@@ -21,8 +21,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Security upgrade autoprefixer from 6.7.7 to 9.0.0](https://github.com/matthiasak/arbiter-frame/pull/36) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (6 days ago)
-- [[Snyk] Fix for 2 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/35) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 week ago)
+- [[Snyk] Security upgrade autoprefixer from 6.7.7 to 9.0.0](https://github.com/matthiasak/arbiter-frame/pull/36) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 week ago)
+- [[Snyk] Fix for 2 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/35) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (2 weeks ago)
 - [[Snyk] Security upgrade forever from 0.15.3 to 4.0.0](https://github.com/matthiasak/arbiter-frame/pull/34) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 month ago)
 - [[Snyk] Fix for 1 vulnerabilities](https://github.com/matthiasak/arbiter-frame/pull/25) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
 - [[Snyk] Security upgrade exorcist from 0.4.0 to 2.0.0](https://github.com/matthiasak/arbiter-frame/pull/24) on [matthiasak/arbiter-frame](https://github.com/matthiasak/arbiter-frame) (1 year ago)
@@ -66,13 +66,13 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (today)
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (today)
-- [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (1 day ago)
-- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (2 days ago)
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (3 days ago)
-- [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (4 days ago)
-- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (5 days ago)
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (1 day ago)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (1 day ago)
+- [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (2 days ago)
+- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (3 days ago)
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (4 days ago)
+- [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (5 days ago)
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (6 days ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (1 week ago)
 - [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (1 week ago)
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (1 week ago)
