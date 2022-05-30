@@ -66,12 +66,12 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (2 days ago)
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (2 days ago)
-- [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (3 days ago)
-- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (4 days ago)
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (5 days ago)
-- [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (6 days ago)
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (3 days ago)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (3 days ago)
+- [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (4 days ago)
+- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (5 days ago)
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (6 days ago)
+- [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (1 week ago)
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (1 week ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (1 week ago)
 - [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (1 week ago)
