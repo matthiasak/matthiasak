@@ -76,7 +76,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (1 week ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (1 week ago)
 - [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (1 week ago)
-- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings. (1 week ago)
+- [featureform/featureform](https://github.com/featureform/featureform) - A vector database for machine learning embeddings. (1 week ago)
 - [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (1 week ago)
 - [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (1 week ago)
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (1 week ago)
