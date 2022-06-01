@@ -66,11 +66,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (1 day ago)
-- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (4 days ago)
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (4 days ago)
-- [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (5 days ago)
-- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (6 days ago)
+- [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (2 days ago)
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (5 days ago)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (5 days ago)
+- [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (6 days ago)
+- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (1 week ago)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 week ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (1 week ago)
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (1 week ago)
