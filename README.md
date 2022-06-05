@@ -66,15 +66,15 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (2 days ago)
-- [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (5 days ago)
+- [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (3 days ago)
+- [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (6 days ago)
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (1 week ago)
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (1 week ago)
 - [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (1 week ago)
 - [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (1 week ago)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 week ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (1 week ago)
-- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (1 week ago)
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 weeks ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (2 weeks ago)
 - [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (2 weeks ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - A vector database for machine learning embeddings. (2 weeks ago)
