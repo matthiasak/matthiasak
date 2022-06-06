@@ -89,11 +89,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### 👯 Check out some of my recent followers
 
+- [Trustinconnor](https://github.com/Trustinconnor)
 - [blackhorse0330](https://github.com/blackhorse0330)
 - [saifurrehman4114](https://github.com/saifurrehman4114)
 - [senior0909](https://github.com/senior0909)
 - [ethanflower1903](https://github.com/ethanflower1903)
-- [loftwah](https://github.com/loftwah)
 
 #### 💬 Feedback
 
