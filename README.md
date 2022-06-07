@@ -66,13 +66,13 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (4 days ago)
+- [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (5 days ago)
 - [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (1 week ago)
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (1 week ago)
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (1 week ago)
 - [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (1 week ago)
 - [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (1 week ago)
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 week ago)
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 weeks ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (2 weeks ago)
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 weeks ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (2 weeks ago)
@@ -81,8 +81,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (2 weeks ago)
 - [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (2 weeks ago)
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (2 weeks ago)
-- [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (3 weeks ago)
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (3 weeks ago)
+- [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (4 weeks ago)
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (4 weeks ago)
 - [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (1 month ago)
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Big Sur &#43; Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (1 month ago)
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (1 month ago)
