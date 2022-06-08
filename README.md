@@ -66,6 +66,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes (today)
+- [gorgonia/agogo](https://github.com/gorgonia/agogo) - A reimplementation of AlphaGo in Go (specifically AlphaZero) (today)
 - [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (6 days ago)
 - [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (1 week ago)
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (1 week ago)
@@ -84,8 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (4 weeks ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (4 weeks ago)
 - [microsoft/EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. (1 month ago)
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Big Sur &#43; Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (1 month ago)
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine &amp; graphics toolkit for the future. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
