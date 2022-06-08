@@ -80,7 +80,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 weeks ago)
 - [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (2 weeks ago)
 - [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (2 weeks ago)
-- [featureform/featureform](https://github.com/featureform/featureform) - A Virtual Feature Store for Machine Learning. Turn your existing data infrastructure into a Feature Store! (2 weeks ago)
+- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (2 weeks ago)
 - [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (2 weeks ago)
 - [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (2 weeks ago)
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (2 weeks ago)
