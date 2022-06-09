@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch. (today)
 - [benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl) - OpenCL support for TensorFlow (1 day ago)
 - [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes (1 day ago)
 - [gorgonia/agogo](https://github.com/gorgonia/agogo) - A reimplementation of AlphaGo in Go (specifically AlphaZero) (1 day ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (3 weeks ago)
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (3 weeks ago)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (1 month ago)
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
