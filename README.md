@@ -66,6 +66,8 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (today)
+- [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution. (today)
 - [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch. (today)
 - [benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl) - OpenCL support for TensorFlow (1 day ago)
 - [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes (1 day ago)
@@ -84,8 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (3 weeks ago)
 - [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (3 weeks ago)
 - [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (3 weeks ago)
-- [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages (3 weeks ago)
-- [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
