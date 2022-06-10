@@ -66,26 +66,26 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (today)
-- [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution. (today)
-- [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch. (today)
-- [benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl) - OpenCL support for TensorFlow (1 day ago)
-- [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes (1 day ago)
-- [gorgonia/agogo](https://github.com/gorgonia/agogo) - A reimplementation of AlphaGo in Go (specifically AlphaZero) (1 day ago)
+- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. (1 day ago)
+- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (1 day ago)
+- [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution. (1 day ago)
+- [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch. (1 day ago)
+- [benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl) - OpenCL support for TensorFlow (2 days ago)
+- [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes (2 days ago)
+- [gorgonia/agogo](https://github.com/gorgonia/agogo) - A reimplementation of AlphaGo in Go (specifically AlphaZero) (2 days ago)
 - [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (1 week ago)
 - [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (1 week ago)
-- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (1 week ago)
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (1 week ago)
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (2 weeks ago)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (2 weeks ago)
 - [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (2 weeks ago)
 - [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (2 weeks ago)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 weeks ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (2 weeks ago)
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 weeks ago)
-- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (2 weeks ago)
-- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (2 weeks ago)
+- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (3 weeks ago)
+- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (3 weeks ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (3 weeks ago)
 - [unixpickle/anyvec](https://github.com/unixpickle/anyvec) - Precision-agnostic vector abstractions (3 weeks ago)
-- [unixpickle/anynet](https://github.com/unixpickle/anynet) - Framework for artificial neural networks (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
