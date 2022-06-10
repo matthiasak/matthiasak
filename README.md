@@ -66,6 +66,9 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [PyTorchLightning/lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning (today)
+- [PyTorchLightning/lightning-bolts](https://github.com/PyTorchLightning/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers. (today)
+- [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template) - Pytorch Lightning code guideline for conferences (today)
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events. (today)
 - [ritchieng/deep-learning-wizard](https://github.com/ritchieng/deep-learning-wizard) - Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, C&#43;&#43; and more. (today)
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. (1 day ago)
@@ -83,9 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (2 weeks ago)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 weeks ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean (2 weeks ago)
-- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS (2 weeks ago)
-- [kh-kim/stock2vec](https://github.com/kh-kim/stock2vec) - Embedding stocks to vectors based on the price history (3 weeks ago)
-- [ml-hongkong/stock2vec](https://github.com/ml-hongkong/stock2vec) - Variational Reccurrent Autoencoder for Embedding stocks to vectors based on the price history (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
