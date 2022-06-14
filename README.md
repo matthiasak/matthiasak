@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation  (today)
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE) (today)
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (today)
 - [alpacahq/alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Python client for Alpaca&#39;s trade API (1 day ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language (1 week ago)
 - [deephyper/deephyper](https://github.com/deephyper/deephyper) - DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks (2 weeks ago)
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (2 weeks ago)
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
