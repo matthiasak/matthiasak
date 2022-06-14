@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (today)
 - [alpacahq/alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Python client for Alpaca&#39;s trade API (1 day ago)
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (3 days ago)
 - [PyTorchLightning/lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning (4 days ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C&#43;&#43;/CUDA neural network framework (2 weeks ago)
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (2 weeks ago)
 - [jarble/transpiler](https://github.com/jarble/transpiler) - A universal translator for programming languages (2 weeks ago)
-- [JanSchm/CapMarket](https://github.com/JanSchm/CapMarket) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
