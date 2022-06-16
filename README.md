@@ -82,7 +82,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [Lightning-AI/deep-learning-project-template](https://github.com/Lightning-AI/deep-learning-project-template) - Pytorch Lightning code guideline for conferences (6 days ago)
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events. (6 days ago)
 - [ritchieng/deep-learning-wizard](https://github.com/ritchieng/deep-learning-wizard) - Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, C&#43;&#43; and more. (6 days ago)
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. (1 week ago)
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Lightning AI enables researchers and enterprise teams to build, share and iterate on scalable Lightning Apps (AI apps) using the tools and technologies of their choice. (1 week ago)
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (1 week ago)
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution. (1 week ago)
 - [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch. (1 week ago)
