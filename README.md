@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks (today)
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML. (1 day ago)
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning (1 day ago)
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps  (1 day ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution. (1 week ago)
 - [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch. (1 week ago)
 - [benoitsteiner/tensorflow-opencl](https://github.com/benoitsteiner/tensorflow-opencl) - OpenCL support for TensorFlow (1 week ago)
-- [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
