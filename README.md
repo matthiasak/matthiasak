@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (today)
 - [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (1 day ago)
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (1 day ago)
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy (1 day ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [Lightning-AI/deep-learning-project-template](https://github.com/Lightning-AI/deep-learning-project-template) - Pytorch Lightning code guideline for conferences (1 week ago)
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events. (1 week ago)
 - [ritchieng/deep-learning-wizard](https://github.com/ritchieng/deep-learning-wizard) - Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, C&#43;&#43; and more. (1 week ago)
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems). (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
