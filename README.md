@@ -66,7 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes (1 day ago)
+- [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (1 day ago)
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (1 day ago)
 - [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (2 days ago)
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (2 days ago)
