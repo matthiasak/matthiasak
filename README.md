@@ -66,13 +66,13 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes (today)
-- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (today)
-- [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (1 day ago)
-- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (1 day ago)
-- [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy (1 day ago)
-- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (6 days ago)
-- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks (6 days ago)
+- [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes (1 day ago)
+- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (1 day ago)
+- [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (2 days ago)
+- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (2 days ago)
+- [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy (2 days ago)
+- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (1 week ago)
+- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks (1 week ago)
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML. (1 week ago)
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning (1 week ago)
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps  (1 week ago)
