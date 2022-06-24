@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (today)
 - [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (1 day ago)
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (2 days ago)
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (2 days ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (1 week ago)
 - [Lightning-AI/lightning-transformers](https://github.com/Lightning-AI/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning (2 weeks ago)
 - [Lightning-AI/lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers. (2 weeks ago)
-- [Lightning-AI/deep-learning-project-template](https://github.com/Lightning-AI/deep-learning-project-template) - Pytorch Lightning code guideline for conferences (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
