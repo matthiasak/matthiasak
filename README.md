@@ -38,7 +38,7 @@
 - [The Proper Way to Backtest a Trading Strategy](https://keas.app/the-proper-way-to-backtest-a-trading-strategy/) (4 months ago)
 - [Go 1.18 generics finally enabling LINQ/Ramda/underscore/lodash/etc style methods in Golang!](https://keas.app/go-1-18-generics-finally-enabling-linq-ramda-underscore-lodash-etc-style-methods-in-golang/) (5 months ago)
 - [The Dark Corners of Go](https://keas.app/the-dark-corners-of-go/) (5 months ago)
-- [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (5 months ago)
+- [Spanner Internals blog](https://keas.app/spanner-internals-blog/) (6 months ago)
 - [An excerpt from an introduction to trading algorithms and technical/quantitative analysis](https://keas.app/an-excerpt-from-an-introduction-to-trading-algorithms-and-technical-quantitative-analysis/) (1 year ago)
 - [Confluent has removed ZooKeeper from Kafka, and it&#39;s awesome](https://keas.app/confluent-has-removed-zookeeper-from-kafka-and-its-awesome/) (1 year ago)
 - [Scaling and Cost Optimization on Kubernetes](https://keas.app/scaling-architectures-and-costs/) (1 year ago)
@@ -66,13 +66,13 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (today)
-- [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (1 day ago)
-- [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (2 days ago)
-- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (2 days ago)
-- [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (3 days ago)
-- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (3 days ago)
-- [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy (3 days ago)
+- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (1 day ago)
+- [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (2 days ago)
+- [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (3 days ago)
+- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (3 days ago)
+- [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (4 days ago)
+- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (4 days ago)
+- [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy (4 days ago)
 - [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (1 week ago)
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks (1 week ago)
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML. (1 week ago)
@@ -83,7 +83,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE) (1 week ago)
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (1 week ago)
 - [alpacahq/alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Python client for Alpaca&#39;s trade API (1 week ago)
-- [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (1 week ago)
+- [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (2 weeks ago)
 - [Lightning-AI/lightning-transformers](https://github.com/Lightning-AI/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning (2 weeks ago)
 - [Lightning-AI/lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers. (2 weeks ago)
 
