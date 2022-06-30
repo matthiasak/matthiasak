@@ -66,15 +66,15 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (5 days ago)
-- [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (6 days ago)
+- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (6 days ago)
+- [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (1 week ago)
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (1 week ago)
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (1 week ago)
 - [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators (1 week ago)
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130&#43; Indicators (1 week ago)
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy (1 week ago)
-- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (1 week ago)
-- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks (1 week ago)
+- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (2 weeks ago)
+- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks (2 weeks ago)
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML. (2 weeks ago)
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning (2 weeks ago)
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps  (2 weeks ago)
