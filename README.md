@@ -66,7 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning (2 days ago)
+- [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning (3 days ago)
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (1 week ago)
 - [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (1 week ago)
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (1 week ago)
@@ -83,7 +83,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation  (2 weeks ago)
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE) (2 weeks ago)
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (2 weeks ago)
-- [alpacahq/alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Python client for Alpaca&#39;s trade API (2 weeks ago)
+- [alpacahq/alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Python client for Alpaca&#39;s trade API (3 weeks ago)
 - [plaidml/plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere. (3 weeks ago)
 - [Lightning-AI/lightning-transformers](https://github.com/Lightning-AI/lightning-transformers) - Flexible components pairing 🤗 Transformers with Pytorch Lightning (3 weeks ago)
 
