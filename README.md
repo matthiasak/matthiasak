@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (today)
 - [facebookresearch/HRViT](https://github.com/facebookresearch/HRViT) - HRViT (&#34;Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation&#34;), CVPR 2022. (1 day ago)
 - [clementchadebec/benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE) - Unifying Generative Autoencoder implementations in Python (1 day ago)
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning (5 days ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation  (3 weeks ago)
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE) (3 weeks ago)
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (3 weeks ago)
-- [alpacahq/alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Python client for Alpaca&#39;s trade API (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
