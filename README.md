@@ -66,6 +66,7 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
+- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. (today)
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (2 days ago)
 - [facebookresearch/HRViT](https://github.com/facebookresearch/HRViT) - HRViT (&#34;Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation&#34;), CVPR 2022. (3 days ago)
 - [clementchadebec/benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE) - Unifying Generative Autoencoder implementations in Python (3 days ago)
@@ -85,7 +86,6 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices (3 weeks ago)
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation  (3 weeks ago)
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE) (3 weeks ago)
-- [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
