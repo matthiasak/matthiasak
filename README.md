@@ -66,11 +66,11 @@ Source: http://jsbin.com/owogib/8/ ](https://gist.github.com/e7a7761a8d695c3f4ad
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (1 day ago)
-- [facebookresearch/HRViT](https://github.com/facebookresearch/HRViT) - HRViT (&#34;Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation&#34;), CVPR 2022. (2 days ago)
-- [clementchadebec/benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE) - Unifying Generative Autoencoder implementations in Python (2 days ago)
-- [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning (6 days ago)
-- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (1 week ago)
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (2 days ago)
+- [facebookresearch/HRViT](https://github.com/facebookresearch/HRViT) - HRViT (&#34;Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation&#34;), CVPR 2022. (3 days ago)
+- [clementchadebec/benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE) - Unifying Generative Autoencoder implementations in Python (3 days ago)
+- [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning (1 week ago)
+- [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser (2 weeks ago)
 - [schreven/ADAM-vs-AmsGrad](https://github.com/schreven/ADAM-vs-AmsGrad) - Study comparing the first ADAM version, to its corrected version; AmsGrad (2 weeks ago)
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀 (2 weeks ago)
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/). (2 weeks ago)
